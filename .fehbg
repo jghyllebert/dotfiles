@@ -1,0 +1,2 @@
+#!/bin/sh
+'feh' '--bg-scale' '/home/jonas/wallpaper/51120.jpg' 
